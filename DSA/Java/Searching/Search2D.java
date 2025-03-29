@@ -1,4 +1,4 @@
-package codes;
+package Searching;
 import java.util.*;
 public class Search2D
 {

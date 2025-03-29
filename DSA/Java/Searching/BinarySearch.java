@@ -1,4 +1,4 @@
-package codes;
+package Searching;
 class BinarySearch
 {
     public static void main(String[] args) {
