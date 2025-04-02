@@ -1,4 +1,4 @@
-package codes;
+package Patterns;
 import java.util.Arrays;
 class PascleTriangle {
 

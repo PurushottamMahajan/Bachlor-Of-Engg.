@@ -1,4 +1,4 @@
-package codes;
+package Patterns;
 public class StarPatterns_Rec {
     public static void main(String[] args) {
         Pattern1(4,0);

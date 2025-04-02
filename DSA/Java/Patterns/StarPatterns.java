@@ -1,4 +1,4 @@
-package codes;
+package Patterns;
 public class StarPatterns {
     
     public static void main(String[] args) {
