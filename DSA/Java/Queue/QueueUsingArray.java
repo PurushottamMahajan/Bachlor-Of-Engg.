@@ -7,12 +7,15 @@ public class QueueUsingArray {
     private static final int DEFAULT_SIZE = 10;
 
     int end = 0;
+    public QueueUsingArray(int size) {
+        this.data = new int[size];
+    }
 
-    public CustomQueue(){
+    public QueueUsingArray(){
         this(DEFAULT_SIZE);
     }
 
-    public CustomQueue(int size) {
+    public void CustomQueue(int size) {
         this.data = new int[size];
     }
 
