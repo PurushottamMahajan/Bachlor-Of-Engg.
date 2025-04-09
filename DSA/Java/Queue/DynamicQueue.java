@@ -1,6 +1,6 @@
 package Queue;
 
-public class DynamicQueue extends CircularQueue{
+public class DynamicQueue extends CircularQueueUsingArray{
     public DynamicQueue() {
         super();
     }
