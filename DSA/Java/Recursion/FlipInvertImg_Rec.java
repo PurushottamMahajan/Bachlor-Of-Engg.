@@ -1,4 +1,4 @@
-package codes;
+package Recursion;
 import java.util.Arrays;
 
 public class FlipInvertImg_Rec {
