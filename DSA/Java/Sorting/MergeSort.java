@@ -1,4 +1,4 @@
-package codes;
+package Sorting;
 import java.util.Arrays;
 
 public class MergeSort {
