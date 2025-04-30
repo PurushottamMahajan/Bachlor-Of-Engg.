@@ -1,9 +1,8 @@
 package OOPs;
-
-class Circle extends Shape {
+class Circles extends Shape {
     int radius;
 
-    Circle(String color, int borderWidth, int radius) {
+    Circles(String color, int borderWidth, int radius) {
         super(color, borderWidth);
         this.radius = radius;
     }
